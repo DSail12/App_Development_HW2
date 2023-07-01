@@ -3,7 +3,7 @@
 //  hw2_
 //
 //  Created by Eugene Zvyagin on 01.07.2023.
-// 
+//  
 
 struct Friend {
     let name: String
