@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "intel.png",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

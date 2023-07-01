@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "tom.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
